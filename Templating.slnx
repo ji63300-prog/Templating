@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Templating/Templating.vcxproj" Id="2ae76c00-56e2-4e57-a7dc-66d387526f13" />
+</Solution>
